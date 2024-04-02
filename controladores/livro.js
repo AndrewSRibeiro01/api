@@ -78,7 +78,6 @@ const deleteLivros = (req, res) => {
     }
 }
 
-
 module.exports = {
     getLivros,
     getLivro,
