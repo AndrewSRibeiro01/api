@@ -9,5 +9,5 @@ app.use('/livros', rotaLivro);
 const port = 8000;
 
 app.listen(port, (req, res) => {
-    console.log(`Escutando a porta ${port}`);
+    console.log(`Rodando na porta ${port}`);
 })
